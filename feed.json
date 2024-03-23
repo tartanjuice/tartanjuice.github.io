@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/03/22/dinner-at-a.html",
+				
+				"content_html": "<h1 id=\"82366\">82/366</h1>\n<p>Dinner at a Mexican food restaurant in Del Ray. Del Ray is a neighborhood of Alexandria where the town of Potomac used to be.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 82/366\n\nDinner at a Mexican food restaurant in Del Ray. Del Ray is a neighborhood of Alexandria where the town of Potomac used to be. \n\n<img src=\"uploads/2024/938212d2f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-22T20:17:04-04:00",
+				"url": "https://teejay.blog/2024/03/22/dinner-at-a.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/03/21/this-old-tobacco.html",
+				
+				"content_html": "<h1 id=\"81366\">81/366</h1>\n<p>This old tobacco warehouse at the corner of Prince St and S Union St still has ghost paint all over the side.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 81/366\n\nThis old tobacco warehouse at the corner of Prince St and S Union St still has ghost paint all over the side. \n\n<img src=\"uploads/2024/14142e830a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-21T20:26:45-04:00",
+				"url": "https://teejay.blog/2024/03/21/this-old-tobacco.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/03/20/two-v-ospreys.html",
+				
+				"content_html": "<h1 id=\"80366\">80/366</h1>\n<p>Two V-22 Ospreys flying south while the Alexandria City Titans crew team rows north on the Potomac.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 80/366\n\nTwo V-22 Ospreys flying south while the Alexandria City Titans crew team rows north on the Potomac. \n\n<img src=\"uploads/2024/f4bda3d5db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-03-20T19:40:18-04:00",
+				"url": "https://teejay.blog/2024/03/20/two-v-ospreys.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/03/19/the-martin-v.html",
+				
+				"content_html": "<h1 id=\"79366\">79/366</h1>\n<p>The Martin V. B. Bostetter Jr. United States Courthouse is the US Bankruptcy court for the Eastern district. Named after one of the longest serving bankruptcy court chief justices, Bostetter spent his entire legal career within an eight block radius of this courthouse.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 79/366\n\nThe Martin V. B. Bostetter Jr. United States Courthouse is the US Bankruptcy court for the Eastern district. Named after one of the longest serving bankruptcy court chief justices, Bostetter spent his entire legal career within an eight block radius of this courthouse. \n\n<img src=\"uploads/2024/b211112666.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-19T20:57:10-04:00",
+				"url": "https://teejay.blog/2024/03/19/the-martin-v.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/03/18/i-dont-know.html",
+				
+				"content_html": "<h1 id=\"78366\">78/366</h1>\n<p>I don’t know the story behind this house on Gibbon St. But it has FOUR exterior doors on the front. Was it multiple units turned into one place? Strange.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 78/366\n\nI don’t know the story behind this house on Gibbon St. But it has FOUR exterior doors on the front. Was it multiple units turned into one place? Strange. \n\n<img src=\"uploads/2024/37a837cacf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-18T19:40:18-04:00",
+				"url": "https://teejay.blog/2024/03/18/i-dont-know.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/03/17/the-jones-point.html",
 				
 				"content_html": "<h1 id=\"77366\">77/366</h1>\n<p>The Jones Point Lighthouse is a National Park. It’s one of the last riverine lighthouses in the US and the last still standing in the Chesapeake Bay watershed. It’s approximately one mile south of King Street in Old Town and hidden well enough to be easily missed.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 77/366\n\nThe Jones Point Lighthouse is a National Park. It’s one of the last riverine lighthouses in the US and the last still standing in the Chesapeake Bay watershed. It’s approximately one mile south of King Street in Old Town and hidden well enough to be easily missed. \n\n<img src=\"uploads/2024/841b8d0c47.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 77/366\n\nThe Jones Point Lighthouse is a National Park. It’s one of the last riverine lighthouses in the US and the last still standing in the Chesapeake Bay watershed. It’s approximately one mile south of King Street in Old Town and hidden well enough to be easily missed. \n\n<img src=\"https://teejay.blog/uploads/2024/841b8d0c47.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-03-17T20:27:00-04:00",
 				"url": "https://teejay.blog/2024/03/17/the-jones-point.html",
 				"tags": ["project366"]
@@ -19,7 +64,7 @@
 				"id": "http://teejay.micro.blog/2024/03/16/princess-st-between.html",
 				
 				"content_html": "<h1 id=\"76366\">76/366</h1>\n<p>Princess St between Saint Asaph and Washington is still cobblestone. The only other cobblestone street in old town is Prince St closer to the water.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 76/366\n\nPrincess St between Saint Asaph and Washington is still cobblestone. The only other cobblestone street in old town is Prince St closer to the water. \n\n<img src=\"uploads/2024/e28ae17ded.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 76/366\n\nPrincess St between Saint Asaph and Washington is still cobblestone. The only other cobblestone street in old town is Prince St closer to the water. \n\n<img src=\"https://teejay.blog/uploads/2024/e28ae17ded.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-03-16T18:12:04-04:00",
 				"url": "https://teejay.blog/2024/03/16/princess-st-between.html",
 				"tags": ["project366"]
@@ -28,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/03/15/this-is-a.html",
 				
 				"content_html": "<h1 id=\"75366\">75/366</h1>\n<p>This is a horse block. Used in days past to easily mount a horse or carriage. There are many different shapes and sizes of them still found around Old Town.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 75/366\n\nThis is a horse block. Used in days past to easily mount a horse or carriage. There are many different shapes and sizes of them still found around Old Town. \n\n<img src=\"uploads/2024/9108b587f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 75/366\n\nThis is a horse block. Used in days past to easily mount a horse or carriage. There are many different shapes and sizes of them still found around Old Town. \n\n<img src=\"https://teejay.blog/uploads/2024/9108b587f3.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-03-15T18:47:24-04:00",
 				"url": "https://teejay.blog/2024/03/15/this-is-a.html",
 				"tags": ["project366"]
@@ -37,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/03/14/which-way-to.html",
 				
 				"content_html": "<h1 id=\"74366\">74/366</h1>\n<p>Which way to the waterfront? The McIlhenny Sport Center in the back, home of the Alexandria Seaport Foundation where young people can learn woodworking, boat building, and other skills.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 74/366\n\nWhich way to the waterfront? The McIlhenny Sport Center in the back, home of the Alexandria Seaport Foundation where young people can learn woodworking, boat building, and other skills. \n\n<img src=\"uploads/2024/0661512e23.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 74/366\n\nWhich way to the waterfront? The McIlhenny Sport Center in the back, home of the Alexandria Seaport Foundation where young people can learn woodworking, boat building, and other skills. \n\n<img src=\"https://teejay.blog/uploads/2024/0661512e23.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-03-14T19:38:55-04:00",
 				"url": "https://teejay.blog/2024/03/14/which-way-to.html",
 				"tags": ["project366"]
@@ -46,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/03/13/south-lee-st.html",
 				
 				"content_html": "<h1 id=\"73366\">73/366</h1>\n<p>South Lee St. overlooking Windmill Hill Park. These homes have a great view of the Potomac.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 73/366\n\nSouth Lee St. overlooking Windmill Hill Park. These homes have a great view of the Potomac. \n\n<img src=\"uploads/2024/a147898149.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 73/366\n\nSouth Lee St. overlooking Windmill Hill Park. These homes have a great view of the Potomac. \n\n<img src=\"https://teejay.blog/uploads/2024/a147898149.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-03-13T19:29:10-04:00",
 				"url": "https://teejay.blog/2024/03/13/south-lee-st.html",
 				"tags": ["project366"]
