@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/03/27/204525.html",
+				
+				"content_html": "<h1 id=\"85366\">85/366</h1>\n<p>Spent the day in Hilton Head and Bluffton.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 85/366\n\nSpent the day in Hilton Head and Bluffton. \n\n<img src=\"uploads/2024/e1e2628f23.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-03-27T20:45:25-04:00",
+				"url": "https://teejay.blog/2024/03/27/204525.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/03/27/spent-the-day.html",
+				
+				"content_html": "<h1 id=\"84366\">84/366</h1>\n<p>Spent the day in Savannah GA.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 84/366\n\nSpent the day in Savannah GA. \n\n<img src=\"uploads/2024/776bea6f84.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-03-27T20:42:08-04:00",
+				"url": "https://teejay.blog/2024/03/27/spent-the-day.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/03/27/drove-down-to.html",
+				
+				"content_html": "<h1 id=\"83366\">83/366</h1>\n<p>Drove down to South Carolina to visit family. There’s a Buc-ees in Florence, so of course we had to stop.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 83/366\n\nDrove down to South Carolina to visit family. There’s a Buc-ees in Florence, so of course we had to stop. \n\n<img src=\"uploads/2024/9b3994fcc6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-03-27T20:41:07-04:00",
+				"url": "https://teejay.blog/2024/03/27/drove-down-to.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/03/22/dinner-at-a.html",
 				
 				"content_html": "<h1 id=\"82366\">82/366</h1>\n<p>Dinner at a Mexican food restaurant in Del Ray. Del Ray is a neighborhood of Alexandria where the town of Potomac used to be.</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://teejay.micro.blog/2024/03/20/two-v-ospreys.html",
 				
 				"content_html": "<h1 id=\"80366\">80/366</h1>\n<p>Two V-22 Ospreys flying south while the Alexandria City Titans crew team rows north on the Potomac.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 80/366\n\nTwo V-22 Ospreys flying south while the Alexandria City Titans crew team rows north on the Potomac. \n\n<img src=\"uploads/2024/f4bda3d5db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 80/366\n\nTwo V-22 Ospreys flying south while the Alexandria City Titans crew team rows north on the Potomac. \n\n<img src=\"https://teejay.blog/uploads/2024/f4bda3d5db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-03-20T19:40:18-04:00",
 				"url": "https://teejay.blog/2024/03/20/two-v-ospreys.html",
 				"tags": ["project366"]
@@ -37,7 +64,7 @@
 				"id": "http://teejay.micro.blog/2024/03/19/the-martin-v.html",
 				
 				"content_html": "<h1 id=\"79366\">79/366</h1>\n<p>The Martin V. B. Bostetter Jr. United States Courthouse is the US Bankruptcy court for the Eastern district. Named after one of the longest serving bankruptcy court chief justices, Bostetter spent his entire legal career within an eight block radius of this courthouse.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 79/366\n\nThe Martin V. B. Bostetter Jr. United States Courthouse is the US Bankruptcy court for the Eastern district. Named after one of the longest serving bankruptcy court chief justices, Bostetter spent his entire legal career within an eight block radius of this courthouse. \n\n<img src=\"uploads/2024/b211112666.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 79/366\n\nThe Martin V. B. Bostetter Jr. United States Courthouse is the US Bankruptcy court for the Eastern district. Named after one of the longest serving bankruptcy court chief justices, Bostetter spent his entire legal career within an eight block radius of this courthouse. \n\n<img src=\"https://teejay.blog/uploads/2024/b211112666.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-03-19T20:57:10-04:00",
 				"url": "https://teejay.blog/2024/03/19/the-martin-v.html",
 				"tags": ["project366"]
@@ -46,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/03/18/i-dont-know.html",
 				
 				"content_html": "<h1 id=\"78366\">78/366</h1>\n<p>I don’t know the story behind this house on Gibbon St. But it has FOUR exterior doors on the front. Was it multiple units turned into one place? Strange.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 78/366\n\nI don’t know the story behind this house on Gibbon St. But it has FOUR exterior doors on the front. Was it multiple units turned into one place? Strange. \n\n<img src=\"uploads/2024/37a837cacf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 78/366\n\nI don’t know the story behind this house on Gibbon St. But it has FOUR exterior doors on the front. Was it multiple units turned into one place? Strange. \n\n<img src=\"https://teejay.blog/uploads/2024/37a837cacf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-03-18T19:40:18-04:00",
 				"url": "https://teejay.blog/2024/03/18/i-dont-know.html",
 				"tags": ["project366"]
