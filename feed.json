@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/08/17/this-fountain-is.html",
+				
+				"content_html": "<h1 id=\"230365\">230/365</h1>\n<p>This fountain is part of the Promenade Classique Art installation at Tide Lock Park.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 230/365\n\nThis fountain is part of the Promenade Classique Art installation at Tide Lock Park. \n\n<img src=\"uploads/2024/5255f2bcda.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-08-17T20:46:03-04:00",
+				"url": "https://teejay.blog/2024/08/17/this-fountain-is.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/16/its-not-all.html",
+				
+				"content_html": "<h1 id=\"229366\">229/366</h1>\n<p>It’s not ALL old buildings in Old Town. Sometimes it’s old cars.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 229/366\n\nIt’s not ALL old buildings in Old Town. Sometimes it’s old cars. \n\n<img src=\"uploads/2024/c07e16ea3f.jpg\" width=\"600\" height=\"445\" alt=\"\">\n",
+				"date_published": "2024-08-16T21:09:12-04:00",
+				"url": "https://teejay.blog/2024/08/16/its-not-all.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/15/this-is-such.html",
+				
+				"content_html": "<h1 id=\"228366\">228/366</h1>\n<p>This is such a great front door. From the color choice to the door knocker to the letter slot and even the not-straight bricks at the top.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 228/366\n\nThis is such a great front door. From the color choice to the door knocker to the letter slot and even the not-straight bricks at the top. \n\n<img src=\"uploads/2024/e24a87d133.jpg\" width=\"440\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-15T18:17:23-04:00",
+				"url": "https://teejay.blog/2024/08/15/this-is-such.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/14/i-dont-know.html",
+				
+				"content_html": "<h1 id=\"227366\">227/366</h1>\n<p>I don’t know why, but this stretch of townhomes on Wilkes reminds me of something they would build in Germany.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 227/366\n\nI don’t know why, but this stretch of townhomes on Wilkes reminds me of something they would build in Germany. \n\n<img src=\"uploads/2024/ac612aaa73.jpg\" width=\"600\" height=\"434\" alt=\"\">\n",
+				"date_published": "2024-08-14T18:31:52-04:00",
+				"url": "https://teejay.blog/2024/08/14/i-dont-know.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/13/bastille-brasserie-on.html",
+				
+				"content_html": "<h1 id=\"226366\">226/366</h1>\n<p>Bastille Brasserie on the north side of town has been serving amazing French food since 2006. It’s one of our favorites and today was the start of restaurant week! Check out their special prix fixe menu this week.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 226/366\n\nBastille Brasserie on the north side of town has been serving amazing French food since 2006. It’s one of our favorites and today was the start of restaurant week! Check out their special prix fixe menu this week. \n\n<img src=\"uploads/2024/1b1273b0c6.jpg\" width=\"600\" height=\"464\" alt=\"\">\n",
+				"date_published": "2024-08-13T21:29:30-04:00",
+				"url": "https://teejay.blog/2024/08/13/bastille-brasserie-on.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/08/12/the-brawner-apartment.html",
 				
 				"content_html": "<h1 id=\"225366\">225/366</h1>\n<p>The Brawner apartment building was built in 1914. I couldn’t find more history on the building, but found it is five or six separate apartments are one or two bedrooms. It’s only a block from King St and less than a mile from the metro.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 225/366\n\nThe Brawner apartment building was built in 1914. I couldn’t find more history on the building, but found it is five or six separate apartments are one or two bedrooms. It’s only a block from King St and less than a mile from the metro. \n\n<img src=\"uploads/2024/be4c1e7f73.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 225/366\n\nThe Brawner apartment building was built in 1914. I couldn’t find more history on the building, but found it is five or six separate apartments are one or two bedrooms. It’s only a block from King St and less than a mile from the metro. \n\n<img src=\"https://teejay.blog/uploads/2024/be4c1e7f73.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-12T20:35:20-04:00",
 				"url": "https://teejay.blog/2024/08/12/the-brawner-apartment.html",
 				"tags": ["project366"]
@@ -19,7 +64,7 @@
 				"id": "http://teejay.micro.blog/2024/08/11/this-little-home.html",
 				
 				"content_html": "<h1 id=\"224366\">224/366</h1>\n<p>This little home on Prince St is wedged in between its two neighbors. It was built in 1890 and is currently setup as a multi-family home (apartments).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 224/366\n\nThis little home on Prince St is wedged in between its two neighbors. It was built in 1890 and is currently setup as a multi-family home (apartments). \n\n<img src=\"uploads/2024/f41136e72b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 224/366\n\nThis little home on Prince St is wedged in between its two neighbors. It was built in 1890 and is currently setup as a multi-family home (apartments). \n\n<img src=\"https://teejay.blog/uploads/2024/f41136e72b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-11T20:15:30-04:00",
 				"url": "https://teejay.blog/2024/08/11/this-little-home.html",
 				"tags": ["project366"]
@@ -28,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/08/10/i-know-ive.html",
 				
 				"content_html": "<h1 id=\"223366\">223/366</h1>\n<p>I know I’ve posted the Farmers Market before, but the weather was actually decent so we walked down with the dogs. One of the oldest continuously run farmers markets in the US. George Washington sold stuff here. Yadda yadda yadda.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 223/366\n\nI know I’ve posted the Farmers Market before, but the weather was actually decent so we walked down with the dogs. One of the oldest continuously run farmers markets in the US. George Washington sold stuff here. Yadda yadda yadda. \n\n<img src=\"uploads/2024/6e25cccd70.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 223/366\n\nI know I’ve posted the Farmers Market before, but the weather was actually decent so we walked down with the dogs. One of the oldest continuously run farmers markets in the US. George Washington sold stuff here. Yadda yadda yadda. \n\n<img src=\"https://teejay.blog/uploads/2024/6e25cccd70.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-10T19:18:00-04:00",
 				"url": "https://teejay.blog/2024/08/10/i-know-ive.html",
 				"tags": ["project366"]
@@ -37,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/08/09/this-flounder-house.html",
 				
 				"content_html": "<h1 id=\"222366\">222/366</h1>\n<p>This flounder house on S Fairfax was built in 1830. Flounder houses are named after the flat fish and were popular in the area after the revolutionary war. There are several in the area and this is a great example.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 222/366\n\nThis flounder house on S Fairfax was built in 1830. Flounder houses are named after the flat fish and were popular in the area after the revolutionary war. There are several in the area and this is a great example. \n\n<img src=\"uploads/2024/09d0db1362.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 222/366\n\nThis flounder house on S Fairfax was built in 1830. Flounder houses are named after the flat fish and were popular in the area after the revolutionary war. There are several in the area and this is a great example. \n\n<img src=\"https://teejay.blog/uploads/2024/09d0db1362.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-09T20:39:22-04:00",
 				"url": "https://teejay.blog/2024/08/09/this-flounder-house.html",
 				"tags": ["project366"]
@@ -46,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/08/08/quick-trip-to.html",
 				
 				"content_html": "<h1 id=\"221366\">221/366</h1>\n<p>Quick trip to Brooklyn for Stationery Fest and a couple bookstores that were on the wish list.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "# 221/366\n\nQuick trip to Brooklyn for Stationery Fest and a couple bookstores that were on the wish list. \n\n<img src=\"uploads/2024/d2c9dcae47.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/de613c675f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/93bbc89c58.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 221/366\n\nQuick trip to Brooklyn for Stationery Fest and a couple bookstores that were on the wish list. \n\n<img src=\"https://teejay.blog/uploads/2024/d2c9dcae47.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://teejay.blog/uploads/2024/de613c675f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://teejay.blog/uploads/2024/93bbc89c58.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-08T19:56:55-04:00",
 				"url": "https://teejay.blog/2024/08/08/quick-trip-to.html",
 				"tags": ["project366"]
