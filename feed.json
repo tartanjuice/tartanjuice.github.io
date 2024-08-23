@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/08/23/i-love-the.html",
+				
+				"content_html": "<h1 id=\"236366\">236/366</h1>\n<p>I love the color of this house on the corner of Jefferson and S Fairfax streets. The Internet says it was built in 1900.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 236/366\n\nI love the color of this house on the corner of Jefferson and S Fairfax streets. The Internet says it was built in 1900. \n\n<img src=\"uploads/2024/93afb55d43.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-08-23T19:31:31-04:00",
+				"url": "https://teejay.blog/2024/08/23/i-love-the.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/22/sunrise-over-the.html",
+				
+				"content_html": "<h1 id=\"235366\">235/366</h1>\n<p>Sunrise over the Potomac from Windmill Hill park. You can see the MGM casino in Maryland.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 235/366\n\nSunrise over the Potomac from Windmill Hill park. You can see the MGM casino in Maryland. \n\n<img src=\"uploads/2024/110808c950.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-08-22T19:10:28-04:00",
+				"url": "https://teejay.blog/2024/08/22/sunrise-over-the.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/21/the-jones-point.html",
+				
+				"content_html": "<h1 id=\"234366\">234/366</h1>\n<p>The Jones Point Light is one of the last riverine lighthouses in the US and the last one in the Chesapeake Bay area. It was operational from 1856-1926 and could be seen up to nine miles away. Near the river, the first boundary cornerstone for the original District of Columbia can be seen.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 234/366\n\nThe Jones Point Light is one of the last riverine lighthouses in the US and the last one in the Chesapeake Bay area. It was operational from 1856-1926 and could be seen up to nine miles away. Near the river, the first boundary cornerstone for the original District of Columbia can be seen. \n\n<img src=\"uploads/2024/31378943aa.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-08-21T19:11:29-04:00",
+				"url": "https://teejay.blog/2024/08/21/the-jones-point.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/20/this-building-in.html",
+				
+				"content_html": "<h1 id=\"233366\">233/366</h1>\n<p>This building (in the middle with the cool second floor windows) on Cameron St was once the Pythian Temple. The Order of the Knights of Pythias was a fraternal organization founded in 1864 and disbanded when interest waned after WWII. It’s now a personal trainer.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 233/366\n\nThis building (in the middle with the cool second floor windows) on Cameron St was once the Pythian Temple. The Order of the Knights of Pythias was a fraternal organization founded in 1864 and disbanded when interest waned after WWII. It’s now a personal trainer. \n\n<img src=\"uploads/2024/3de804208a.jpg\" width=\"461\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-20T19:31:33-04:00",
+				"url": "https://teejay.blog/2024/08/20/this-building-in.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/19/hotel-heron-recently.html",
+				
+				"content_html": "<h1 id=\"232366\">232/366</h1>\n<p>Hotel Heron recently opened at the corner of Prince St and S Washington. They have a rooftop bar with great views of Alexandria, Washington DC, and the Potomac. The building was originally the George Mason Hotel built in 1926.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 232/366\n\nHotel Heron recently opened at the corner of Prince St and S Washington. They have a rooftop bar with great views of Alexandria, Washington DC, and the Potomac. The building was originally the George Mason Hotel built in 1926. \n\n<img src=\"uploads/2024/8fb290db53.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"date_published": "2024-08-19T19:30:03-04:00",
+				"url": "https://teejay.blog/2024/08/19/hotel-heron-recently.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/18/this-detached-townhome.html",
+				
+				"content_html": "<h1 id=\"231366\">231/366</h1>\n<p>This detached townhome on S Pitt St took full advantage of not having a shared wall. Look at all those windows!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 231/366\n\nThis detached townhome on S Pitt St took full advantage of not having a shared wall. Look at all those windows!\n\n<img src=\"https://teejay.blog/uploads/2024/8b88c176e3.jpg\" width=\"474\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-18T19:49:22-04:00",
+				"url": "https://teejay.blog/2024/08/18/this-detached-townhome.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/08/17/this-fountain-is.html",
 				
 				"content_html": "<h1 id=\"230365\">230/365</h1>\n<p>This fountain is part of the Promenade Classique Art installation at Tide Lock Park.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 230/365\n\nThis fountain is part of the Promenade Classique Art installation at Tide Lock Park. \n\n<img src=\"uploads/2024/5255f2bcda.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 230/365\n\nThis fountain is part of the Promenade Classique Art installation at Tide Lock Park. \n\n<img src=\"https://teejay.blog/uploads/2024/5255f2bcda.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-08-17T20:46:03-04:00",
 				"url": "https://teejay.blog/2024/08/17/this-fountain-is.html",
 				"tags": ["project366"]
@@ -19,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/08/16/its-not-all.html",
 				
 				"content_html": "<h1 id=\"229366\">229/366</h1>\n<p>It’s not ALL old buildings in Old Town. Sometimes it’s old cars.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 229/366\n\nIt’s not ALL old buildings in Old Town. Sometimes it’s old cars. \n\n<img src=\"uploads/2024/c07e16ea3f.jpg\" width=\"600\" height=\"445\" alt=\"\">\n",
+				"content_text": "# 229/366\n\nIt’s not ALL old buildings in Old Town. Sometimes it’s old cars. \n\n<img src=\"https://teejay.blog/uploads/2024/c07e16ea3f.jpg\" width=\"600\" height=\"445\" alt=\"\">\n",
 				"date_published": "2024-08-16T21:09:12-04:00",
 				"url": "https://teejay.blog/2024/08/16/its-not-all.html",
 				"tags": ["project366"]
@@ -28,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/08/15/this-is-such.html",
 				
 				"content_html": "<h1 id=\"228366\">228/366</h1>\n<p>This is such a great front door. From the color choice to the door knocker to the letter slot and even the not-straight bricks at the top.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 228/366\n\nThis is such a great front door. From the color choice to the door knocker to the letter slot and even the not-straight bricks at the top. \n\n<img src=\"uploads/2024/e24a87d133.jpg\" width=\"440\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 228/366\n\nThis is such a great front door. From the color choice to the door knocker to the letter slot and even the not-straight bricks at the top. \n\n<img src=\"https://teejay.blog/uploads/2024/e24a87d133.jpg\" width=\"440\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-15T18:17:23-04:00",
 				"url": "https://teejay.blog/2024/08/15/this-is-such.html",
 				"tags": ["project366"]
@@ -37,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/08/14/i-dont-know.html",
 				
 				"content_html": "<h1 id=\"227366\">227/366</h1>\n<p>I don’t know why, but this stretch of townhomes on Wilkes reminds me of something they would build in Germany.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 227/366\n\nI don’t know why, but this stretch of townhomes on Wilkes reminds me of something they would build in Germany. \n\n<img src=\"uploads/2024/ac612aaa73.jpg\" width=\"600\" height=\"434\" alt=\"\">\n",
+				"content_text": "# 227/366\n\nI don’t know why, but this stretch of townhomes on Wilkes reminds me of something they would build in Germany. \n\n<img src=\"https://teejay.blog/uploads/2024/ac612aaa73.jpg\" width=\"600\" height=\"434\" alt=\"\">\n",
 				"date_published": "2024-08-14T18:31:52-04:00",
 				"url": "https://teejay.blog/2024/08/14/i-dont-know.html",
 				"tags": ["project366"]
@@ -46,7 +100,7 @@
 				"id": "http://teejay.micro.blog/2024/08/13/bastille-brasserie-on.html",
 				
 				"content_html": "<h1 id=\"226366\">226/366</h1>\n<p>Bastille Brasserie on the north side of town has been serving amazing French food since 2006. It’s one of our favorites and today was the start of restaurant week! Check out their special prix fixe menu this week.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 226/366\n\nBastille Brasserie on the north side of town has been serving amazing French food since 2006. It’s one of our favorites and today was the start of restaurant week! Check out their special prix fixe menu this week. \n\n<img src=\"uploads/2024/1b1273b0c6.jpg\" width=\"600\" height=\"464\" alt=\"\">\n",
+				"content_text": "# 226/366\n\nBastille Brasserie on the north side of town has been serving amazing French food since 2006. It’s one of our favorites and today was the start of restaurant week! Check out their special prix fixe menu this week. \n\n<img src=\"https://teejay.blog/uploads/2024/1b1273b0c6.jpg\" width=\"600\" height=\"464\" alt=\"\">\n",
 				"date_published": "2024-08-13T21:29:30-04:00",
 				"url": "https://teejay.blog/2024/08/13/bastille-brasserie-on.html",
 				"tags": ["project366"]
