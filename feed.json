@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/08/28/this-brick-wall.html",
+				
+				"content_html": "<h1 id=\"241366\">241/366</h1>\n<p>This brick wall clearly needs to be shored up.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 241/366\n\nThis brick wall clearly needs to be shored up. \n\n<img src=\"uploads/2024/58a1c9da0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-28T19:32:56-04:00",
+				"url": "https://teejay.blog/2024/08/28/this-brick-wall.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/27/the-ice-well.html",
+				
+				"content_html": "<h1 id=\"240366\">240/366</h1>\n<p>The ice well at Gadsby’s Tavern is located at the corner of Royal and Cameron. It offers a glimpse into how ice was kept cold in the 18th century.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 240/366\n\nThe ice well at Gadsby’s Tavern is located at the corner of Royal and Cameron. It offers a glimpse into how ice was kept cold in the 18th century. \n\n<img src=\"uploads/2024/b1bc03bcf3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-08-27T19:20:09-04:00",
+				"url": "https://teejay.blog/2024/08/27/the-ice-well.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/26/i-was-recently.html",
+				
+				"content_html": "<h1 id=\"239366\">239/366</h1>\n<p>I was recently reminded that this little house on Wilkes, wedged in the middle, was in an episode of the local PBS affiliate (WETA) show called “If You Lived Here.” Look it up if you want to see inside!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 239/366\n\nI was recently reminded that this little house on Wilkes, wedged in the middle, was in an episode of the local PBS affiliate (WETA) show called “If You Lived Here.” Look it up if you want to see inside!\n\n<img src=\"uploads/2024/5a46170a35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-26T19:28:47-04:00",
+				"url": "https://teejay.blog/2024/08/26/i-was-recently.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/25/a-row-of.html",
+				
+				"content_html": "<h1 id=\"238366\">238/366</h1>\n<p>A row of white townhomes on S Lee St.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 238/366\n\nA row of white townhomes on S Lee St. \n\n<img src=\"uploads/2024/54d5ff933d.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-08-25T18:29:25-04:00",
+				"url": "https://teejay.blog/2024/08/25/a-row-of.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/24/today-is-the.html",
+				
+				"content_html": "<h1 id=\"237366\">237/366</h1>\n<p>Today is the Library of Congress National Book Festival in DC. A free event featuring exhibits, activities, a book store, and author events and book signings at the Washington Convention Center. This year’s authors included Rebecca Yarros, Sandra Cisneros, James SA Corey and more.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 237/366\n\nToday is the Library of Congress National Book Festival in DC. A free event featuring exhibits, activities, a book store, and author events and book signings at the Washington Convention Center. This year’s authors included Rebecca Yarros, Sandra Cisneros, James SA Corey and more. \n\n<img src=\"uploads/2024/e868542ed0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-08-24T17:23:29-04:00",
+				"url": "https://teejay.blog/2024/08/24/today-is-the.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/08/23/i-love-the.html",
 				
 				"content_html": "<h1 id=\"236366\">236/366</h1>\n<p>I love the color of this house on the corner of Jefferson and S Fairfax streets. The Internet says it was built in 1900.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 236/366\n\nI love the color of this house on the corner of Jefferson and S Fairfax streets. The Internet says it was built in 1900. \n\n<img src=\"uploads/2024/93afb55d43.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 236/366\n\nI love the color of this house on the corner of Jefferson and S Fairfax streets. The Internet says it was built in 1900. \n\n<img src=\"https://teejay.blog/uploads/2024/93afb55d43.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-08-23T19:31:31-04:00",
 				"url": "https://teejay.blog/2024/08/23/i-love-the.html",
 				"tags": ["project366"]
@@ -19,7 +64,7 @@
 				"id": "http://teejay.micro.blog/2024/08/22/sunrise-over-the.html",
 				
 				"content_html": "<h1 id=\"235366\">235/366</h1>\n<p>Sunrise over the Potomac from Windmill Hill park. You can see the MGM casino in Maryland.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 235/366\n\nSunrise over the Potomac from Windmill Hill park. You can see the MGM casino in Maryland. \n\n<img src=\"uploads/2024/110808c950.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 235/366\n\nSunrise over the Potomac from Windmill Hill park. You can see the MGM casino in Maryland. \n\n<img src=\"https://teejay.blog/uploads/2024/110808c950.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-22T19:10:28-04:00",
 				"url": "https://teejay.blog/2024/08/22/sunrise-over-the.html",
 				"tags": ["project366"]
@@ -28,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/08/21/the-jones-point.html",
 				
 				"content_html": "<h1 id=\"234366\">234/366</h1>\n<p>The Jones Point Light is one of the last riverine lighthouses in the US and the last one in the Chesapeake Bay area. It was operational from 1856-1926 and could be seen up to nine miles away. Near the river, the first boundary cornerstone for the original District of Columbia can be seen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 234/366\n\nThe Jones Point Light is one of the last riverine lighthouses in the US and the last one in the Chesapeake Bay area. It was operational from 1856-1926 and could be seen up to nine miles away. Near the river, the first boundary cornerstone for the original District of Columbia can be seen. \n\n<img src=\"uploads/2024/31378943aa.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 234/366\n\nThe Jones Point Light is one of the last riverine lighthouses in the US and the last one in the Chesapeake Bay area. It was operational from 1856-1926 and could be seen up to nine miles away. Near the river, the first boundary cornerstone for the original District of Columbia can be seen. \n\n<img src=\"https://teejay.blog/uploads/2024/31378943aa.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-08-21T19:11:29-04:00",
 				"url": "https://teejay.blog/2024/08/21/the-jones-point.html",
 				"tags": ["project366"]
@@ -37,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/08/20/this-building-in.html",
 				
 				"content_html": "<h1 id=\"233366\">233/366</h1>\n<p>This building (in the middle with the cool second floor windows) on Cameron St was once the Pythian Temple. The Order of the Knights of Pythias was a fraternal organization founded in 1864 and disbanded when interest waned after WWII. It’s now a personal trainer.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 233/366\n\nThis building (in the middle with the cool second floor windows) on Cameron St was once the Pythian Temple. The Order of the Knights of Pythias was a fraternal organization founded in 1864 and disbanded when interest waned after WWII. It’s now a personal trainer. \n\n<img src=\"uploads/2024/3de804208a.jpg\" width=\"461\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 233/366\n\nThis building (in the middle with the cool second floor windows) on Cameron St was once the Pythian Temple. The Order of the Knights of Pythias was a fraternal organization founded in 1864 and disbanded when interest waned after WWII. It’s now a personal trainer. \n\n<img src=\"https://teejay.blog/uploads/2024/3de804208a.jpg\" width=\"461\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-20T19:31:33-04:00",
 				"url": "https://teejay.blog/2024/08/20/this-building-in.html",
 				"tags": ["project366"]
@@ -46,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/08/19/hotel-heron-recently.html",
 				
 				"content_html": "<h1 id=\"232366\">232/366</h1>\n<p>Hotel Heron recently opened at the corner of Prince St and S Washington. They have a rooftop bar with great views of Alexandria, Washington DC, and the Potomac. The building was originally the George Mason Hotel built in 1926.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 232/366\n\nHotel Heron recently opened at the corner of Prince St and S Washington. They have a rooftop bar with great views of Alexandria, Washington DC, and the Potomac. The building was originally the George Mason Hotel built in 1926. \n\n<img src=\"uploads/2024/8fb290db53.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "# 232/366\n\nHotel Heron recently opened at the corner of Prince St and S Washington. They have a rooftop bar with great views of Alexandria, Washington DC, and the Potomac. The building was originally the George Mason Hotel built in 1926. \n\n<img src=\"https://teejay.blog/uploads/2024/8fb290db53.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2024-08-19T19:30:03-04:00",
 				"url": "https://teejay.blog/2024/08/19/hotel-heron-recently.html",
 				"tags": ["project366"]
