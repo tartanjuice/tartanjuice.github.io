@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/09/03/these-two-townhomes.html",
+				
+				"content_html": "<h1 id=\"247366\">247/366</h1>\n<p>These two townhomes on N Fairfax have a rat’s nest of cables in front of it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 247/366\n\nThese two townhomes on N Fairfax have a rat’s nest of cables in front of it. \n\n<img src=\"uploads/2024/5983e4b3aa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-03T18:55:23-04:00",
+				"url": "https://teejay.blog/2024/09/03/these-two-townhomes.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/09/02/brick-work-in.html",
+				
+				"content_html": "<h1 id=\"246366\">246/366</h1>\n<p>Brick work in need of repair at this business.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 246/366\n\nBrick work in need of repair at this business. \n\n<img src=\"uploads/2024/bdb598cf8a.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-09-02T18:26:30-04:00",
+				"url": "https://teejay.blog/2024/09/02/brick-work-in.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/09/01/this-stretch-of.html",
+				
+				"content_html": "<h1 id=\"245366\">245/366</h1>\n<p>This stretch of homes on S Pitt St is color coordinated well.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 245/366\n\nThis stretch of homes on S Pitt St is color coordinated well. \n\n<img src=\"uploads/2024/21a5e236ad.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-09-01T19:42:12-04:00",
+				"url": "https://teejay.blog/2024/09/01/this-stretch-of.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/31/i-found-the.html",
+				
+				"content_html": "<h1 id=\"244366\">244/366</h1>\n<p>I found the entrance to Diagon Alley on King St.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 244/366\n\nI found the entrance to Diagon Alley on King St. \n\n<img src=\"uploads/2024/2e8b12ec10.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-31T13:33:10-04:00",
+				"url": "https://teejay.blog/2024/08/31/i-found-the.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/30/vasos-kitchen-on.html",
+				
+				"content_html": "<h1 id=\"243366\">243/366</h1>\n<p>Vaso’s Kitchen on Bashford Ln is a Greek and Mediterranean food restaurant. They kept the original, historic, and iconic Dixie Pig BBQ sign of the former owners; which opened in 1924.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 243/366\n\nVaso’s Kitchen on Bashford Ln is a Greek and Mediterranean food restaurant. They kept the original, historic, and iconic Dixie Pig BBQ sign of the former owners; which opened in 1924. \n\n<img src=\"uploads/2024/c035c5ab2f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-30T23:14:14-04:00",
+				"url": "https://teejay.blog/2024/08/30/vasos-kitchen-on.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/08/29/view-towards-king.html",
+				
+				"content_html": "<h1 id=\"242366\">242/366</h1>\n<p>View towards King St from my attic office. I couldn’t get a picture without the screen showing up. /shrug</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 242/366\n\nView towards King St from my attic office. I couldn’t get a picture without the screen showing up. /shrug\n\n<img src=\"https://teejay.blog/uploads/2024/9d61a514be.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-08-29T19:47:11-04:00",
+				"url": "https://teejay.blog/2024/08/29/view-towards-king.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/08/28/this-brick-wall.html",
 				
 				"content_html": "<h1 id=\"241366\">241/366</h1>\n<p>This brick wall clearly needs to be shored up.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 241/366\n\nThis brick wall clearly needs to be shored up. \n\n<img src=\"uploads/2024/58a1c9da0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 241/366\n\nThis brick wall clearly needs to be shored up. \n\n<img src=\"https://teejay.blog/uploads/2024/58a1c9da0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-28T19:32:56-04:00",
 				"url": "https://teejay.blog/2024/08/28/this-brick-wall.html",
 				"tags": ["project366"]
@@ -19,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/08/27/the-ice-well.html",
 				
 				"content_html": "<h1 id=\"240366\">240/366</h1>\n<p>The ice well at Gadsby’s Tavern is located at the corner of Royal and Cameron. It offers a glimpse into how ice was kept cold in the 18th century.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 240/366\n\nThe ice well at Gadsby’s Tavern is located at the corner of Royal and Cameron. It offers a glimpse into how ice was kept cold in the 18th century. \n\n<img src=\"uploads/2024/b1bc03bcf3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 240/366\n\nThe ice well at Gadsby’s Tavern is located at the corner of Royal and Cameron. It offers a glimpse into how ice was kept cold in the 18th century. \n\n<img src=\"https://teejay.blog/uploads/2024/b1bc03bcf3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-27T19:20:09-04:00",
 				"url": "https://teejay.blog/2024/08/27/the-ice-well.html",
 				"tags": ["project366"]
@@ -28,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/08/26/i-was-recently.html",
 				
 				"content_html": "<h1 id=\"239366\">239/366</h1>\n<p>I was recently reminded that this little house on Wilkes, wedged in the middle, was in an episode of the local PBS affiliate (WETA) show called “If You Lived Here.” Look it up if you want to see inside!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 239/366\n\nI was recently reminded that this little house on Wilkes, wedged in the middle, was in an episode of the local PBS affiliate (WETA) show called “If You Lived Here.” Look it up if you want to see inside!\n\n<img src=\"uploads/2024/5a46170a35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 239/366\n\nI was recently reminded that this little house on Wilkes, wedged in the middle, was in an episode of the local PBS affiliate (WETA) show called “If You Lived Here.” Look it up if you want to see inside!\n\n<img src=\"https://teejay.blog/uploads/2024/5a46170a35.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-26T19:28:47-04:00",
 				"url": "https://teejay.blog/2024/08/26/i-was-recently.html",
 				"tags": ["project366"]
@@ -37,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/08/25/a-row-of.html",
 				
 				"content_html": "<h1 id=\"238366\">238/366</h1>\n<p>A row of white townhomes on S Lee St.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 238/366\n\nA row of white townhomes on S Lee St. \n\n<img src=\"uploads/2024/54d5ff933d.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 238/366\n\nA row of white townhomes on S Lee St. \n\n<img src=\"https://teejay.blog/uploads/2024/54d5ff933d.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-08-25T18:29:25-04:00",
 				"url": "https://teejay.blog/2024/08/25/a-row-of.html",
 				"tags": ["project366"]
@@ -46,7 +100,7 @@
 				"id": "http://teejay.micro.blog/2024/08/24/today-is-the.html",
 				
 				"content_html": "<h1 id=\"237366\">237/366</h1>\n<p>Today is the Library of Congress National Book Festival in DC. A free event featuring exhibits, activities, a book store, and author events and book signings at the Washington Convention Center. This year’s authors included Rebecca Yarros, Sandra Cisneros, James SA Corey and more.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 237/366\n\nToday is the Library of Congress National Book Festival in DC. A free event featuring exhibits, activities, a book store, and author events and book signings at the Washington Convention Center. This year’s authors included Rebecca Yarros, Sandra Cisneros, James SA Corey and more. \n\n<img src=\"uploads/2024/e868542ed0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 237/366\n\nToday is the Library of Congress National Book Festival in DC. A free event featuring exhibits, activities, a book store, and author events and book signings at the Washington Convention Center. This year’s authors included Rebecca Yarros, Sandra Cisneros, James SA Corey and more. \n\n<img src=\"https://teejay.blog/uploads/2024/e868542ed0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-08-24T17:23:29-04:00",
 				"url": "https://teejay.blog/2024/08/24/today-is-the.html",
 				"tags": ["project366"]
