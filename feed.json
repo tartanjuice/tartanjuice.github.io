@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/10/06/this-single-family.html",
+				
+				"content_html": "<h1 id=\"280366\">280/366</h1>\n<p>This single family home sits just two blocks from King St and the river; prime real estate. It was built in 1820.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 280/366\n\nThis single family home sits just two blocks from King St and the river; prime real estate. It was built in 1820. \n\n<img src=\"uploads/2024/1028543928.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-10-06T19:17:03-04:00",
+				"url": "https://teejay.blog/2024/10/06/this-single-family.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/05/fall-wine-festival.html",
+				
+				"content_html": "<h1 id=\"279366\">279/366</h1>\n<p>Fall wine festival at Mount Vernon. Unlimited wine samples in the wine tent, live jazz band, sitting on the east lawn with sweeping views of the Potomac. Wonderful evening with the wife. Tip: order the charcuterie box ahead of time, they always sell out!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 279/366\n\nFall wine festival at Mount Vernon. Unlimited wine samples in the wine tent, live jazz band, sitting on the east lawn with sweeping views of the Potomac. Wonderful evening with the wife. Tip: order the charcuterie box ahead of time, they always sell out!\n\n<img src=\"uploads/2024/7b22d85814.jpg\" width=\"600\" height=\"446\" alt=\"\">\n",
+				"date_published": "2024-10-05T21:23:27-04:00",
+				"url": "https://teejay.blog/2024/10/05/fall-wine-festival.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/04/this-now-defunct.html",
+				
+				"content_html": "<h1 id=\"278366\">278/366</h1>\n<p>This now defunct clock sits in front of what used to be a United Bank branch; at the corner of Duke and S Washington. The bank logo has faded from this side and several of the Roman numerals have fallen off the clock face.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 278/366\n\nThis now defunct clock sits in front of what used to be a United Bank branch; at the corner of Duke and S Washington. The bank logo has faded from this side and several of the Roman numerals have fallen off the clock face. \n\n<img src=\"uploads/2024/24ebd8fd9b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-04T19:42:17-04:00",
+				"url": "https://teejay.blog/2024/10/04/this-now-defunct.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/03/strand-street-is.html",
+				
+				"content_html": "<h1 id=\"277366\">277/366</h1>\n<p>Strand Street is just one block long and sits between the river and S Union St. Hotel Indigo, Lady Camellia tea house, Chadwick’s restaurant, and Big Wheel Bikes all sit along this stretch.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 277/366\n\nStrand Street is just one block long and sits between the river and S Union St. Hotel Indigo, Lady Camellia tea house, Chadwick’s restaurant, and Big Wheel Bikes all sit along this stretch. \n\n<img src=\"uploads/2024/868c180bf5.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-10-03T19:52:20-04:00",
+				"url": "https://teejay.blog/2024/10/03/strand-street-is.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/02/this-stretch-of.html",
+				
+				"content_html": "<h1 id=\"276366\">276/366</h1>\n<p>This stretch of S Lee St is one of my favorites in Old Town. Several blocks of well maintained, historic homes. These two are a good example of the homes here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 276/366\n\nThis stretch of S Lee St is one of my favorites in Old Town. Several blocks of well maintained, historic homes. These two are a good example of the homes here. \n\n<img src=\"uploads/2024/84c20f47fb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-02T18:49:33-04:00",
+				"url": "https://teejay.blog/2024/10/02/this-stretch-of.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/10/01/this-federal-style.html",
 				
 				"content_html": "<h1 id=\"275366\">275/366</h1>\n<p>This federal style townhome on N Saint Asaph has a very inviting entry and fall display.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 275/366\n\nThis federal style townhome on N Saint Asaph has a very inviting entry and fall display. \n\n<img src=\"uploads/2024/903dc5d289.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 275/366\n\nThis federal style townhome on N Saint Asaph has a very inviting entry and fall display. \n\n<img src=\"https://teejay.blog/uploads/2024/903dc5d289.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-01T18:28:13-04:00",
 				"url": "https://teejay.blog/2024/10/01/this-federal-style.html",
 				"tags": ["project366"]
@@ -19,7 +64,7 @@
 				"id": "http://teejay.micro.blog/2024/09/30/i-didnt-get.html",
 				
 				"content_html": "<h1 id=\"274366\">274/366</h1>\n<p>I didn’t get out past the end of the block today, so you get a photo of this surprise mural on the corner of Wythe and N Washington from this past weekend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 274/366\n\nI didn’t get out past the end of the block today, so you get a photo of this surprise mural on the corner of Wythe and N Washington from this past weekend. \n\n<img src=\"uploads/2024/fd4f86d395.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 274/366\n\nI didn’t get out past the end of the block today, so you get a photo of this surprise mural on the corner of Wythe and N Washington from this past weekend. \n\n<img src=\"https://teejay.blog/uploads/2024/fd4f86d395.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-09-30T19:26:45-04:00",
 				"url": "https://teejay.blog/2024/09/30/i-didnt-get.html",
 				"tags": ["project366"]
@@ -28,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/09/29/this-home-at.html",
 				
 				"content_html": "<h1 id=\"273366\">273/366</h1>\n<p>This home at the corner of N Columbus and Wythe Streets used to be one house, built in 1910. Somewhere along the way it was turned into two (one is a rental, the other the owner).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 273/366\n\nThis home at the corner of N Columbus and Wythe Streets used to be one house, built in 1910. Somewhere along the way it was turned into two (one is a rental, the other the owner). \n\n<img src=\"uploads/2024/676f3097e3.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 273/366\n\nThis home at the corner of N Columbus and Wythe Streets used to be one house, built in 1910. Somewhere along the way it was turned into two (one is a rental, the other the owner). \n\n<img src=\"https://teejay.blog/uploads/2024/676f3097e3.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-29T17:47:18-04:00",
 				"url": "https://teejay.blog/2024/09/29/this-home-at.html",
 				"tags": ["project366"]
@@ -37,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/09/28/this-flounder-house.html",
 				
 				"content_html": "<h1 id=\"272366\">272/366</h1>\n<p>This flounder house is at the corner of Wilkes and S Saint Asaph St. It looks like they decided there was juuust enough space for one more house on the block and tacked it on to the house next door.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 272/366\n\nThis flounder house is at the corner of Wilkes and S Saint Asaph St. It looks like they decided there was juuust enough space for one more house on the block and tacked it on to the house next door. \n\n<img src=\"uploads/2024/40e50faee4.jpg\" width=\"440\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 272/366\n\nThis flounder house is at the corner of Wilkes and S Saint Asaph St. It looks like they decided there was juuust enough space for one more house on the block and tacked it on to the house next door. \n\n<img src=\"https://teejay.blog/uploads/2024/40e50faee4.jpg\" width=\"440\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-28T20:12:02-04:00",
 				"url": "https://teejay.blog/2024/09/28/this-flounder-house.html",
 				"tags": ["project366"]
@@ -46,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/09/27/the-decorations-are.html",
 				
 				"content_html": "<h1 id=\"271366\">271/366</h1>\n<p>The decorations are coming out. Old Town Alexandria really does it up for Halloween!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 271/366\n\nThe decorations are coming out. Old Town Alexandria really does it up for Halloween!\n\n<img src=\"uploads/2024/917000922f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 271/366\n\nThe decorations are coming out. Old Town Alexandria really does it up for Halloween!\n\n<img src=\"https://teejay.blog/uploads/2024/917000922f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-27T18:37:35-04:00",
 				"url": "https://teejay.blog/2024/09/27/the-decorations-are.html",
 				"tags": ["project366"]
