@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/10/23/this-standalone-home.html",
+				
+				"content_html": "<h1 id=\"297366\">297/366</h1>\n<p>This standalone home on N Saint Asaph is one of only five in Old Town on a double lot. Built in 1880, it has two parking spaces and beautiful yard and garden.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 297/366\n\nThis standalone home on N Saint Asaph is one of only five in Old Town on a double lot. Built in 1880, it has two parking spaces and beautiful yard and garden. \n\n<img src=\"uploads/2024/150582265b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-23T19:34:34-04:00",
+				"url": "https://teejay.blog/2024/10/23/this-standalone-home.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/22/i-couldnt-find.html",
+				
+				"content_html": "<h1 id=\"296366\">296/366</h1>\n<p>I couldn’t find much information about this house on Duke Street other than it was built in 1822. Sure is a pretty one though.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 296/366\n\nI couldn’t find much information about this house on Duke Street other than it was built in 1822. Sure is a pretty one though. \n\n<img src=\"uploads/2024/7e282ee9aa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-22T18:44:14-04:00",
+				"url": "https://teejay.blog/2024/10/22/i-couldnt-find.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/21/this-home-on.html",
+				
+				"content_html": "<h1 id=\"295366\">295/366</h1>\n<p>This home on South Royal was built in 1800 and was one of the first in Alexandria with running water. Shown here is the alley that was used to bring the horses around to the stable behind this row of homes. What appears to be a silo is now a spiral staircase inside.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 295/366\n\nThis home on South Royal was built in 1800 and was one of the first in Alexandria with running water. Shown here is the alley that was used to bring the horses around to the stable behind this row of homes. What appears to be a silo is now a spiral staircase inside. \n\n<img src=\"uploads/2024/5db8c6fc17.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-21T20:10:56-04:00",
+				"url": "https://teejay.blog/2024/10/21/this-home-on.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/20/taken-from-the.html",
+				
+				"content_html": "<h1 id=\"294366\">294/366</h1>\n<p>Taken from the top of Wilkes Street Tunnel. This used to be a railroad tunnel from 1856-1975. It’s now a pedestrian tunnel connecting Wilkes street to the waterfront and parks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 294/366\n\nTaken from the top of Wilkes Street Tunnel. This used to be a railroad tunnel from 1856-1975. It’s now a pedestrian tunnel connecting Wilkes street to the waterfront and parks. \n\n<img src=\"uploads/2024/1523f8b857.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-20T18:28:06-04:00",
+				"url": "https://teejay.blog/2024/10/20/taken-from-the.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/19/this-home-on.html",
+				
+				"content_html": "<h1 id=\"293366\">293/366</h1>\n<p>This home on N Payne was originally a cigar shop. It was a studio-style home with no bedrooms and one bathroom. In 2018, the new owners renovated and updated while still keeping the nod to the original building.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 293/366\n\nThis home on N Payne was originally a cigar shop. It was a studio-style home with no bedrooms and one bathroom. In 2018, the new owners renovated and updated while still keeping the nod to the original building. \n\n<img src=\"uploads/2024/8fcb736406.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-19T19:27:41-04:00",
+				"url": "https://teejay.blog/2024/10/19/this-home-on.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/10/18/the-nearby-neighborhood.html",
 				
 				"content_html": "<h1 id=\"292366\">292/366</h1>\n<p>The nearby neighborhood of Del Ray is filled with adorable homes with wraparound porches and tree-lined streets. Several of the homes go all out on Halloween decorations too; like this home on Stewart Ave.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 292/366\n\nThe nearby neighborhood of Del Ray is filled with adorable homes with wraparound porches and tree-lined streets. Several of the homes go all out on Halloween decorations too; like this home on Stewart Ave. \n\n<img src=\"uploads/2024/809c5d671c.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 292/366\n\nThe nearby neighborhood of Del Ray is filled with adorable homes with wraparound porches and tree-lined streets. Several of the homes go all out on Halloween decorations too; like this home on Stewart Ave. \n\n<img src=\"https://teejay.blog/uploads/2024/809c5d671c.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-10-18T19:24:23-04:00",
 				"url": "https://teejay.blog/2024/10/18/the-nearby-neighborhood.html",
 				"tags": ["project366"]
@@ -19,7 +64,7 @@
 				"id": "http://teejay.micro.blog/2024/10/17/these-are-the.html",
 				
 				"content_html": "<h1 id=\"291366\">291/366</h1>\n<p>These are the four “painted ladies” on N Saint Asaph. Victorian style townhomes built in 1880 and just two blocks from King Street. Pink, white, blue, and yellow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 291/366\n\nThese are the four “painted ladies” on N Saint Asaph. Victorian style townhomes built in 1880 and just two blocks from King Street. Pink, white, blue, and yellow. \n\n<img src=\"uploads/2024/6a2b74d3b1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 291/366\n\nThese are the four “painted ladies” on N Saint Asaph. Victorian style townhomes built in 1880 and just two blocks from King Street. Pink, white, blue, and yellow. \n\n<img src=\"https://teejay.blog/uploads/2024/6a2b74d3b1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-17T18:55:31-04:00",
 				"url": "https://teejay.blog/2024/10/17/these-are-the.html",
 				"tags": ["project366"]
@@ -28,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/10/16/the-morrison-house.html",
 				
 				"content_html": "<h1 id=\"290366\">290/366</h1>\n<p>The Morrison House is an Autograph Collection hotel tucked away on South Alfred. This boutique hotel is built in the Federal style and has a book-themed bar called The Study.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 290/366\n\nThe Morrison House is an Autograph Collection hotel tucked away on South Alfred. This boutique hotel is built in the Federal style and has a book-themed bar called The Study. \n\n<img src=\"uploads/2024/a595425fca.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 290/366\n\nThe Morrison House is an Autograph Collection hotel tucked away on South Alfred. This boutique hotel is built in the Federal style and has a book-themed bar called The Study. \n\n<img src=\"https://teejay.blog/uploads/2024/a595425fca.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-16T19:47:47-04:00",
 				"url": "https://teejay.blog/2024/10/16/the-morrison-house.html",
 				"tags": ["project366"]
@@ -37,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/10/15/its-difficult-to.html",
 				
 				"content_html": "<h1 id=\"289366\">289/366</h1>\n<p>It’s difficult to tell from this photo, but this home on South Royal looks like something out of a little English village.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 289/366\n\nIt’s difficult to tell from this photo, but this home on South Royal looks like something out of a little English village. \n\n<img src=\"uploads/2024/97771087f9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 289/366\n\nIt’s difficult to tell from this photo, but this home on South Royal looks like something out of a little English village. \n\n<img src=\"https://teejay.blog/uploads/2024/97771087f9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-15T19:51:48-04:00",
 				"url": "https://teejay.blog/2024/10/15/its-difficult-to.html",
 				"tags": ["project366"]
@@ -46,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/10/14/there-arent-a.html",
 				
 				"content_html": "<h1 id=\"288366\">288/366</h1>\n<p>There aren’t a lot of covered front porches in Old Town. But when there is one, it’s adorable!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 288/366\n\nThere aren’t a lot of covered front porches in Old Town. But when there is one, it’s adorable!\n\n<img src=\"uploads/2024/6bc8de1444.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 288/366\n\nThere aren’t a lot of covered front porches in Old Town. But when there is one, it’s adorable!\n\n<img src=\"https://teejay.blog/uploads/2024/6bc8de1444.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-14T20:07:26-04:00",
 				"url": "https://teejay.blog/2024/10/14/there-arent-a.html",
 				"tags": ["project366"]
