@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://teejay.micro.blog/2024/11/03/the-crilley-warehouse.html",
+				
+				"content_html": "<h1 id=\"308366\">308/366</h1>\n<p>The Crilley Warehouse on N Lee was once home to the Jamieson Bakery; famous for its biscuits, crackers, and bread. The bakery moved to this building in 1832, helping fuel the manufacturing and export industry in Alexandria. The building now hosts executive offices, restaurants, and shops.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 308/366\n\nThe Crilley Warehouse on N Lee was once home to the Jamieson Bakery; famous for its biscuits, crackers, and bread. The bakery moved to this building in 1832, helping fuel the manufacturing and export industry in Alexandria. The building now hosts executive offices, restaurants, and shops. \n\n<img src=\"uploads/2024/b28cc08e55.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-11-03T19:29:40-04:00",
+				"url": "https://teejay.blog/2024/11/03/the-crilley-warehouse.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/11/02/this-house-at.html",
+				
+				"content_html": "<h1 id=\"307366\">307/366</h1>\n<p>This house at the corner of Prince and S Pitt is less than 900 sq ft. Built in 1780 and only a block away from King Street, I’m sure it has quite a history.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 307/366\n\nThis house at the corner of Prince and S Pitt is less than 900 sq ft. Built in 1780 and only a block away from King Street, I’m sure it has quite a history. \n\n<img src=\"uploads/2024/ce2bfe4437.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-11-02T19:59:32-04:00",
+				"url": "https://teejay.blog/2024/11/02/this-house-at.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/11/01/at-the-corner.html",
+				
+				"content_html": "<h1 id=\"306366\">306/366</h1>\n<p>At the corner of Green and S Royal sits this little keychain library. Take a keychain (or trinket), leave a keychain (or trinket).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 306/366\n\nAt the corner of Green and S Royal sits this little keychain library. Take a keychain (or trinket), leave a keychain (or trinket).\n\n<img src=\"uploads/2024/ba98739200.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-01T19:51:10-04:00",
+				"url": "https://teejay.blog/2024/11/01/at-the-corner.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/31/almost-the-entire.html",
+				
+				"content_html": "<h1 id=\"305366\">305/366</h1>\n<p>Almost the entire length of South Lee Street shuts down for Halloween (around ten blocks). Children from all over the DMV come to get their fill of candy.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 305/366\n\nAlmost the entire length of South Lee Street shuts down for Halloween (around ten blocks). Children from all over the DMV come to get their fill of candy. \n\n<img src=\"uploads/2024/a250ce10ed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-10-31T20:33:32-04:00",
+				"url": "https://teejay.blog/2024/10/31/almost-the-entire.html",
+				"tags": ["project366"]
+			},
+			{
+				"id": "http://teejay.micro.blog/2024/10/30/this-home-with.html",
+				
+				"content_html": "<h1 id=\"304366\">304/366</h1>\n<p>This home with a barn-style roof on South Lee St was built in 1786. It’s now a realty office.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# 304/366\n\nThis home with a barn-style roof on South Lee St was built in 1786. It’s now a realty office. \n\n<img src=\"uploads/2024/438361b1b5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-30T19:32:42-04:00",
+				"url": "https://teejay.blog/2024/10/30/this-home-with.html",
+				"tags": ["project366"]
+			},
+			{
 				"id": "http://teejay.micro.blog/2024/10/29/neighboring-old-town.html",
 				
 				"content_html": "<h1 id=\"303366\">303/366</h1>\n<p>Neighboring Old Town is the Carlyle neighborhood. It’s a dense residential and commercial area that’s home to the US Patent and Trademark Office, National Science Foundation, Five Guys Headquarters, and more.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 303/366\n\nNeighboring Old Town is the Carlyle neighborhood. It’s a dense residential and commercial area that’s home to the US Patent and Trademark Office, National Science Foundation, Five Guys Headquarters, and more. \n\n<img src=\"uploads/2024/6084f95edb.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
+				"content_text": "# 303/366\n\nNeighboring Old Town is the Carlyle neighborhood. It’s a dense residential and commercial area that’s home to the US Patent and Trademark Office, National Science Foundation, Five Guys Headquarters, and more. \n\n<img src=\"https://teejay.blog/uploads/2024/6084f95edb.jpg\" width=\"600\" height=\"448\" alt=\"\">\n",
 				"date_published": "2024-10-29T18:08:09-04:00",
 				"url": "https://teejay.blog/2024/10/29/neighboring-old-town.html",
 				"tags": ["project366"]
@@ -19,7 +64,7 @@
 				"id": "http://teejay.micro.blog/2024/10/28/the-halloween-theme.html",
 				
 				"content_html": "<h1 id=\"302366\">302/366</h1>\n<p>The Halloween theme on South Lee St is apparently skeleton Oktoberfest. Prost!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 302/366\n\nThe Halloween theme on South Lee St is apparently skeleton Oktoberfest. Prost!\n\n<img src=\"uploads/2024/47ce1a1e34.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 302/366\n\nThe Halloween theme on South Lee St is apparently skeleton Oktoberfest. Prost!\n\n<img src=\"https://teejay.blog/uploads/2024/47ce1a1e34.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-28T19:09:18-04:00",
 				"url": "https://teejay.blog/2024/10/28/the-halloween-theme.html",
 				"tags": ["project366"]
@@ -28,7 +73,7 @@
 				"id": "http://teejay.micro.blog/2024/10/27/st-johns-square.html",
 				
 				"content_html": "<h1 id=\"301366\">301/366</h1>\n<p>St. John’s Square was a Jesuit military academy established in 1833 and closed in 1895. It’s now 10 different residences in the building. I’m glad they kept the original Georgian style.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 301/366\n\nSt. John’s Square was a Jesuit military academy established in 1833 and closed in 1895. It’s now 10 different residences in the building. I’m glad they kept the original Georgian style. \n\n<img src=\"uploads/2024/701e804134.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "# 301/366\n\nSt. John’s Square was a Jesuit military academy established in 1833 and closed in 1895. It’s now 10 different residences in the building. I’m glad they kept the original Georgian style. \n\n<img src=\"https://teejay.blog/uploads/2024/701e804134.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-27T19:20:48-04:00",
 				"url": "https://teejay.blog/2024/10/27/st-johns-square.html",
 				"tags": ["project366"]
@@ -37,7 +82,7 @@
 				"id": "http://teejay.micro.blog/2024/10/26/roberdeau-park-at.html",
 				
 				"content_html": "<h1 id=\"300366\">300/366</h1>\n<p>Roberdeau park, at the end of Wolfe St, is one of 14 parks along Alexandria’s two(ish) mile Potomac River waterfront. When the RiverRenew project is complete in 2025, you’ll be able to walk the entire waterfront through parks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 300/366\n\nRoberdeau park, at the end of Wolfe St, is one of 14 parks along Alexandria’s two(ish) mile Potomac River waterfront. When the RiverRenew project is complete in 2025, you’ll be able to walk the entire waterfront through parks. \n\n<img src=\"uploads/2024/e269f7736c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "# 300/366\n\nRoberdeau park, at the end of Wolfe St, is one of 14 parks along Alexandria’s two(ish) mile Potomac River waterfront. When the RiverRenew project is complete in 2025, you’ll be able to walk the entire waterfront through parks. \n\n<img src=\"https://teejay.blog/uploads/2024/e269f7736c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-26T18:10:33-04:00",
 				"url": "https://teejay.blog/2024/10/26/roberdeau-park-at.html",
 				"tags": ["project366"]
@@ -46,7 +91,7 @@
 				"id": "http://teejay.micro.blog/2024/10/25/captains-row-at.html",
 				
 				"content_html": "<h1 id=\"299366\">299/366</h1>\n<p>Captain’s Row at night. The 100 block of Prince Street is the oldest cobblestone block in the city. Named for Captain John Harper who built many of these homes in the late 1700s.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "# 299/366\n\nCaptain’s Row at night. The 100 block of Prince Street is the oldest cobblestone block in the city. Named for Captain John Harper who built many of these homes in the late 1700s. \n\n<img src=\"uploads/2024/8e10f67af5.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "# 299/366\n\nCaptain’s Row at night. The 100 block of Prince Street is the oldest cobblestone block in the city. Named for Captain John Harper who built many of these homes in the late 1700s. \n\n<img src=\"https://teejay.blog/uploads/2024/8e10f67af5.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-10-25T21:08:01-04:00",
 				"url": "https://teejay.blog/2024/10/25/captains-row-at.html",
 				"tags": ["project366"]
